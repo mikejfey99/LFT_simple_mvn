@@ -2,7 +2,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>fey</groupId>
-    <artifactId>aos-regression-test-web</artifactId>
+    <artifactId>fey_test</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>LeanFT JUnit Test</name>
     <description>LeanFT JUnit Test</description>
