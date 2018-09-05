@@ -1,7 +1,7 @@
 <Results>
     <GeneralInfo>
         <Name/>
-        <RunStartTime>2018-09-05 12:41:25</RunStartTime>
+        <RunStartTime>2018-09-05 13:19:27</RunStartTime>
         <Timezone>GMT+0000 (Coordinated Universal Time)</Timezone>
         <OrchestrationToolName>JUnit</OrchestrationToolName>
         <OrchestrationToolVersion/>
@@ -11,10 +11,10 @@
         <Data>
             <Name>Run Results</Name>
             <Description><![CDATA[ ]]></Description>
-            <StartTime>2018-09-05 12:41:25</StartTime>
+            <StartTime>2018-09-05 13:19:27</StartTime>
             <Result>Passed</Result>
             <Links/>
-            <Duration><![CDATA[00:00:02.948]]></Duration>
+            <Duration><![CDATA[00:00:02.807]]></Duration>
             <Extension>
                 <Any>
                     <IconKey>Run</IconKey>
@@ -39,10 +39,10 @@
             <Data>
                 <Name>fey</Name>
                 <Description><![CDATA[Version: N/A]]></Description>
-                <StartTime>2018-09-05 12:41:25</StartTime>
+                <StartTime>2018-09-05 13:19:27</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration><![CDATA[00:00:02.898]]></Duration>
+                <Duration><![CDATA[00:00:02.715]]></Duration>
                 <Extension>
                     <Any>
                         <IconKey>Package</IconKey>
@@ -54,10 +54,10 @@
                 <Data>
                     <Name><![CDATA[fey.LeanFtTest]]></Name>
                     <Description/>
-                    <StartTime>2018-09-05 12:41:25</StartTime>
+                    <StartTime>2018-09-05 13:19:27</StartTime>
                     <Result>Passed</Result>
                     <Links/>
-                    <Duration><![CDATA[00:00:02.898]]></Duration>
+                    <Duration><![CDATA[00:00:02.715]]></Duration>
                     <Extension>
                         <Any>
                             <IconKey>Class</IconKey>
@@ -69,10 +69,10 @@
                     <Data>
                         <Name>testlft</Name>
                         <Description/>
-                        <StartTime>2018-09-05 12:41:25</StartTime>
+                        <StartTime>2018-09-05 13:19:27</StartTime>
                         <Result>Passed</Result>
                         <Links/>
-                        <Duration><![CDATA[00:00:02.896]]></Duration>
+                        <Duration><![CDATA[00:00:02.712]]></Duration>
                         <Extension>
                             <Any>
                                 <IconKey>Test</IconKey>
@@ -84,7 +84,7 @@
                         <Data>
                             <Name><![CDATA[Browser.launch]]></Name>
                             <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>68.0</td></tr><tr><td class='ex-name'>osVersion</td><td class='ex-value'>3.10.0-693.21.1.el7.x86_64</td></tr><tr><td class='ex-name'>osType</td><td class='ex-value'>Linux</td></tr><tr><td class='ex-name'>name</td><td class='ex-value'>nimbusserver</td></tr><tr><td class='ex-name'>id</td><td class='ex-value'>nimbusserver</td></tr><tr><td class='ex-name'>max concurent tests</td><td class='ex-value'>9.007199254740991E15</td></tr></table>]]></Description>
-                            <StartTime>2018-09-05 12:41:25</StartTime>
+                            <StartTime>2018-09-05 13:19:27</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration><![CDATA[00:00:00.000]]></Duration>
@@ -112,10 +112,10 @@
                         <Data>
                             <Name><![CDATA[about:blank.navigate]]></Name>
                             <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>http://www.google.com</td></tr></table>]]></Description>
-                            <StartTime>2018-09-05 12:41:28</StartTime>
+                            <StartTime>2018-09-05 13:19:29</StartTime>
                             <Result>Passed</Result>
                             <Links/>
-                            <Duration><![CDATA[00:00:00.047]]></Duration>
+                            <Duration><![CDATA[00:00:00.077]]></Duration>
                             <Extension>
                                 <Any>
                                     <TestObject>
@@ -183,7 +183,7 @@
                         <Data>
                             <Name>status</Name>
                             <Description><![CDATA[checkpoint]]></Description>
-                            <StartTime>2018-09-05 12:41:28</StartTime>
+                            <StartTime>2018-09-05 13:19:30</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration><![CDATA[00:00:00.000]]></Duration>
@@ -199,7 +199,7 @@
                         <Data>
                             <Name>Verification</Name>
                             <Description/>
-                            <StartTime>2018-09-05 12:41:28</StartTime>
+                            <StartTime>2018-09-05 13:19:30</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Extension>
@@ -222,7 +222,7 @@
                         <Data>
                             <Name>messages are equal</Name>
                             <Description><![CDATA[passed]]></Description>
-                            <StartTime>2018-09-05 12:41:28</StartTime>
+                            <StartTime>2018-09-05 13:19:30</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration><![CDATA[00:00:00.000]]></Duration>
